@@ -114,7 +114,7 @@ Free to use - Proyek ini bebas digunakan untuk keperluan pendidikan dan pembelaj
 
 ## 👨‍💻 Pengembang
 
-Dibuat dengan ❤️ menggunakan HTML, CSS, dan JavaScriptt
+Dibuat dengan  menggunakan HTML, CSS, dan JavaScript
 
 ---
 
